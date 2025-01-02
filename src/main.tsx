@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client'
 import App from './App'
 import './index.css'
 
+// test push
 // Utilise un ID unique pour éviter les conflits avec le site principal
 ReactDOM.createRoot(document.getElementById('config-root')!).render(
   <React.StrictMode>
